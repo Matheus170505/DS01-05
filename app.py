@@ -14,6 +14,6 @@ print(f"\nAluno: {nome}")
 print(f"Média: {media:.2f}")
 
 if media >= 6:
-    print("Situação: Aprovado")
+    print("Situação: Aprovado parabens")
 else:
     print("Situação: Reprovado")
